@@ -1,0 +1,30 @@
+body {
+     margin: 0;
+     padding: 0;
+}
+
+.container {
+    display: grid;
+    padding-top: 150px;
+    
+}
+
+button {
+    width: 120px;
+    height: 120px;
+}
+
+.firstRow {
+    display: flex;
+    justify-content: center;
+}
+
+.secondRow {
+    display: flex;
+    justify-content: center;
+}
+
+.thirdRow {
+    display: flex;
+    justify-content: center;
+}
